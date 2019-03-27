@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MadLevel5</string>
+
+    <string-array name="status">
+        <item>Dropped</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Want to play</item>
+    </string-array>
+</resources>
